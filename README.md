@@ -16,12 +16,14 @@ docker-node-demo/
 
 ## Technologies Used
 
- -Javascript
- -Nodejs
- -HTTP module to create  a server
- -Docker
- -Dockerfile
- -Git
- -GitHub
+ 
+## Requirements
+
+* Nodejs
+ * HTTP module to create  a server
+ * Docker
+ * Dockerfile
+ * Git
+ * GitHub
 
 
