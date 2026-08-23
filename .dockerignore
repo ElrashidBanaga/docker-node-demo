@@ -1,0 +1,6 @@
+# Ignore Node library
+node_modules
+# Ignore  .git 
+.git
+
+
