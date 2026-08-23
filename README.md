@@ -14,8 +14,14 @@ docker-node-demo/
 └── .dockerignore
 ```
 
-## Requirements
+## Technologies Used
 
- Nodejs
+ -Javascript
+ -Nodejs
+ -HTTP module to create  a server
+ -Docker
+ -Dockerfile
+ -Git
+ -GitHub
 
 
