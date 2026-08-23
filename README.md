@@ -15,10 +15,6 @@ docker-node-demo/
 ```
 
 ## Technologies Used
-
- 
-## Requirements
-
 * Nodejs
  * HTTP module to create  a server
  * Docker
